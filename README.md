@@ -65,6 +65,7 @@
             margin: 0.5em;
             border: 2px solid #ddd;
             border-radius: 5px;
+            pointer-events: none; /* Hace que la imagen sea estática */
         }
         .image-section div {
             flex: 1;
