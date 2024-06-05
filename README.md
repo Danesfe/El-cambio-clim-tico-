@@ -97,26 +97,17 @@
             <div class="image-section">
                 <div>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Beach_erosion_4.jpg" alt="Erosión costera">
-                    <p>Erosión costera</p>
+                    <p>Erosión costera<br>(Fuente: Wikimedia Commons)</p>
                 </div>
                 <div>
                     <a href="https://www.google.com/imgres?q=animado%20inundaciones&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fgreenpencil%2Fgreenpencil2108%2Fgreenpencil210800026%2F173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.jpg&imgrefurl=https%3A%2F%2Fes.123rf.com%2Fphoto_173953487_casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.html&docid=Zja2MBrOtSd-7M&tbnid=hqWZdWr82f-t0M&vet=12ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA..i&w=1300&h=1300&hcb=2&ved=2ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA" target="_blank">
                         <img src="https://previews.123rf.com/images/greenpencil/greenpencil2108/greenpencil210800026/173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%C3%B3n.jpg" alt="Inundaciones">
                     </a>
-                    <p>Inundaciones</p>
+                    <p>Inundaciones<br>(Fuente: 123RF)</p>
                 </div>
                 <div>
                     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvectores%2Fsequia&psig=AOvVaw0AlZoxn2mShczOEStX6E0H&ust=1717697875553000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCHjfCJxYYDFQAAAAAdAAAAABAE" alt="Sequías">
-                    <p>Sequías</p>
-                </div>
-            </div>
-        </section>
-        <section id="solutions">
-            <h2>Soluciones para el Cambio Climático</h2>
-            <p>Es crucial tomar medidas para reducir las emisiones de gases de efecto invernadero y adoptar prácticas sostenibles.</p>
-            <div class="image-section">
-                <div>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Solar_panels_on_Toyota_Corolla.jpg" alt="Energía solar">
+                    <p>Sequías<br>Por causa del cambio climático, la temperatura terrestre ha aumentado, lo que ocasiona sequías.</p>
                 </div>
             </div>
         </section>
