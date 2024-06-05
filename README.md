@@ -96,7 +96,7 @@
             <p>El cambio climático está provocando fenómenos meteorológicos extremos, elevación del nivel del mar y pérdida de biodiversidad.</p>
             <div class="image-section">
                 <div>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Arctic_Melt_Zone_August_8%2C_2011.jpg" alt="Derretimiento de los polos">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fmx%2Fillustration%2Fmelting-glaciers-48931483.html&psig=AOvVaw2m0JUpvIDKM4gXcZhwI0G6&ust=1717700794321000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiGwJ6UxYYDFQAAAAAdAAAAABAE" alt="Derretimiento de los polos">
                     <p>Derretimiento de los polos<br>Debido al aumento de temperaturas, los polos han comenzado a derretirse, lo cual afecta al ecosistema y sus animales<br>(Fuente: Wikimedia Commons)</p>
                 </div>
                 <div>
