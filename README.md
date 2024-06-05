@@ -97,7 +97,7 @@
             <div class="image-section">
                 <div>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Arctic_Melt_Zone_August_8%2C_2011.jpg" alt="Derretimiento de los polos">
-                    <p>Derretimiento de los polos<br>(Fuente: Wikimedia Commons)</p>
+                    <p>Derretimiento de los polos<br>Debido al aumento de temperaturas, los polos han comenzado a derretirse, lo cual afecta al ecosistema y sus animales<br>(Fuente: Wikimedia Commons)</p>
                 </div>
                 <div>
                     <a href="https://www.google.com/imgres?q=animado%20inundaciones&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fgreenpencil%2Fgreenpencil2108%2Fgreenpencil210800026%2F173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.jpg&imgrefurl=https%3A%2F%2Fes.123rf.com%2Fphoto_173953487_casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.html&docid=Zja2MBrOtSd-7M&tbnid=hqWZdWr82f-t0M&vet=12ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA..i&w=1300&h=1300&hcb=2&ved=2ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA" target="_blank">
