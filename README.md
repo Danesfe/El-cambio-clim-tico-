@@ -122,7 +122,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Cambio Climático - Todos los derechos reservados</p>
+        <p>&copy; 2024 Cambio Climático - Todos los derechos reservados - Autor: Daniel Eliezer Pérez Martínez - Grupo 210 COBAEV 42</p>
     </footer>
 </body>
 </html>
