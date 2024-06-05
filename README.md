@@ -105,7 +105,7 @@
                     <p>Inundaciones</p>
                 </div>
                 <div>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Drought_California_2014.jpg" alt="Sequías">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvectores%2Fsequia&psig=AOvVaw0AlZoxn2mShczOEStX6E0H&ust=1717697875553000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCHjfCJxYYDFQAAAAAdAAAAABAE" alt="Sequías">
                     <p>Sequías</p>
                 </div>
             </div>
@@ -116,14 +116,12 @@
             <div class="image-section">
                 <div>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Solar_panels_on_Toyota_Corolla.jpg" alt="Energía solar">
-                    <p>Energía Solar</p>
                 </div>
-                <!-- Aquí puedes agregar más imágenes de soluciones -->
             </div>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Cambio Climático. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Cambio Climático - Todos los derechos reservados</p>
     </footer>
 </body>
 </html>
