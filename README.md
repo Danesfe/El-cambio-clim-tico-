@@ -95,21 +95,17 @@
             <p>El cambio climático está provocando fenómenos meteorológicos extremos, elevación del nivel del mar y pérdida de biodiversidad.</p>
             <div class="image-section">
                 <div>
-                    <a href="https://upload.wikimedia.org/wikipedia/commons/b/bb/Beach_erosion_4.jpg" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Beach_erosion_4.jpg" alt="Erosión costera">
-                    </a>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Beach_erosion_4.jpg" alt="Erosión costera">
                     <p>Erosión costera</p>
                 </div>
                 <div>
-                    <a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Flooding_in_Venice_after_2019_meteorological_event.jpg" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Flooding_in_Venice_after_2019_meteorological_event.jpg" alt="Inundaciones">
+                    <a href="https://www.google.com/imgres?q=animado%20inundaciones&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fgreenpencil%2Fgreenpencil2108%2Fgreenpencil210800026%2F173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.jpg&imgrefurl=https%3A%2F%2Fes.123rf.com%2Fphoto_173953487_casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.html&docid=Zja2MBrOtSd-7M&tbnid=hqWZdWr82f-t0M&vet=12ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA..i&w=1300&h=1300&hcb=2&ved=2ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA" target="_blank">
+                        <img src="https://previews.123rf.com/images/greenpencil/greenpencil2108/greenpencil210800026/173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%C3%B3n.jpg" alt="Inundaciones">
                     </a>
                     <p>Inundaciones</p>
                 </div>
                 <div>
-                    <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Drought_California_2014.jpg" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Drought_California_2014.jpg" alt="Sequías">
-                    </a>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Drought_California_2014.jpg" alt="Sequías">
                     <p>Sequías</p>
                 </div>
             </div>
@@ -119,28 +115,5 @@
             <p>Es crucial tomar medidas para reducir las emisiones de gases de efecto invernadero y adoptar prácticas sostenibles.</p>
             <div class="image-section">
                 <div>
-                    <a href="https://upload.wikimedia.org/wikipedia/commons/5/59/Solar_panels_on_Toyota_Corolla.jpg" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Solar_panels_on_Toyota_Corolla.jpg" alt="Energía solar">
-                    </a>
-                    <p>Energía solar</p>
-                </div>
-                <div>
-                    <a href="https://upload.wikimedia.org/wikipedia/commons/7/7e/Wind_Farm_%284%29.jpg" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Wind_Farm_%284%29.jpg" alt="Energía eólica">
-                    </a>
-                    <p>Energía eólica</p>
-                </div>
-                <div>
-                    <a href="https://upload.wikimedia.org/wikipedia/commons/0/09/Tree-planting-team-Mexico-4005.jpg" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Tree-planting-team-Mexico-4005.jpg" alt="Reforestación">
-                    </a>
-                    <p>Reforestación</p>
-                </div>
-            </div>
-        </section>
-    </main>
-    <footer>
-        <p>Autor: Daniel Eliezer Pérez Martínez | Grupo 210 Cobaev 42 &copy; 2024 Cambio Climático. Todos los derechos reservados.</p>
-    </footer>
-</body>
-</html>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Solar_panels_on_Toyota_Corolla.jpg" alt="Energía solar">
+                    <
