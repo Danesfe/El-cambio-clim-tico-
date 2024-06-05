@@ -103,7 +103,7 @@
                     <a href="https://www.google.com/imgres?q=animado%20inundaciones&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fgreenpencil%2Fgreenpencil2108%2Fgreenpencil210800026%2F173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.jpg&imgrefurl=https%3A%2F%2Fes.123rf.com%2Fphoto_173953487_casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.html&docid=Zja2MBrOtSd-7M&tbnid=hqWZdWr82f-t0M&vet=12ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA..i&w=1300&h=1300&hcb=2&ved=2ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA" target="_blank">
                         <img src="https://previews.123rf.com/images/greenpencil/greenpencil2108/greenpencil210800026/173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%C3%B3n.jpg" alt="Inundaciones">
                     </a>
-                    <p>Inundaciones<br>(Fuente: 123RF)</p>
+                    <p>Inundaciones<br>A causa de los derretimientos de los polos el nivel de agua aumenta lo que provoca inundaciones en varias partes del mundo<br>(Fuente: 123RF)</p>
                 </div>
                 <div>
                     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvectores%2Fsequia&psig=AOvVaw0AlZoxn2mShczOEStX6E0H&ust=1717697875553000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCHjfCJxYYDFQAAAAAdAAAAABAE" alt="Sequías">
