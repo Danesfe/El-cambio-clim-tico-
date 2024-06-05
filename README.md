@@ -116,4 +116,14 @@
             <div class="image-section">
                 <div>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Solar_panels_on_Toyota_Corolla.jpg" alt="Energía solar">
-                    <
+                    <p>Energía Solar</p>
+                </div>
+                <!-- Aquí puedes agregar más imágenes de soluciones -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Cambio Climático. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
