@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cambio Climático</title>
+    <meta name="description" content="Información sobre el cambio climático, su impacto y soluciones para enfrentarlo.">
+    <meta name="keywords" content="cambio climático, impacto, soluciones, medio ambiente, ecología">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -65,7 +67,7 @@
             margin: 0.5em;
             border: 2px solid #ddd;
             border-radius: 5px;
-            pointer-events: none; /* Hace que la imagen sea estática */
+            pointer-events: none;
         }
         .image-section div {
             flex: 1;
@@ -89,7 +91,7 @@
     <main>
         <section id="home">
             <h2>Inicio</h2>
-            <p>El cambio climático es uno de los mayores desafíos de nuestro tiempo. Afecta a todos los países y comunidades del mundo,esto asu vez a traído varias consecuencias al planeta como se muestra a continuación</p>
+            <p>El cambio climático es uno de los mayores desafíos de nuestro tiempo. Afecta a todos los países y comunidades del mundo, esto a su vez ha traído varias consecuencias al planeta como se muestra a continuación.</p>
         </section>
         <section id="impact">
             <h2>Impacto del Cambio Climático</h2>
@@ -110,6 +112,10 @@
                     <p>Sequías<br>Por causa del cambio climático, la temperatura terrestre ha aumentado, lo que ocasiona sequías que afecta tanto a personas como animales y vida silvestre.</p>
                 </div>
             </div>
+        </section>
+        <section id="solutions">
+            <h2>Soluciones</h2>
+            <p>Existen diversas soluciones a este problema, y consisten en ayudar a cuidar el planeta y buscar una vida sustentable.</p>
         </section>
     </main>
     <footer>
