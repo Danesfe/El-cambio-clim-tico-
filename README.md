@@ -1,125 +1,38 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambio Climático</title>
-    <meta name="description" content="Información sobre el cambio climático, su impacto y soluciones para enfrentarlo.">
-    <meta name="keywords" content="cambio climático, impacto, soluciones, medio ambiente, ecología">
+    <title>Call of Duty Fan Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+            text-align: center;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
         }
         header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 1em;
-            text-align: center;
+            background-color: #000;
+            padding: 20px 0;
         }
-        nav {
+        header h1 {
             margin: 0;
-            padding: 0;
-            background-color: #333;
-        }
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-        }
-        nav ul li {
-            float: left;
-        }
-        nav ul li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        nav ul li a:hover {
-            background-color: #111;
         }
         main {
-            padding: 1em;
+            padding: 20px;
         }
-        footer {
-            background-color: #4CAF50;
-            color: white;
-            text-align: center;
-            padding: 1em;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-        .image-section {
+        .game-info {
             display: flex;
             flex-wrap: wrap;
-            justify-content: space-around;
-            margin-top: 1em;
+            justify-content: center;
         }
-        .image-section img {
-            max-width: 100%;
-            height: auto;
-            margin: 0.5em;
-            border: 2px solid #ddd;
-            border-radius: 5px;
-            pointer-events: none;
+        .game-info div {
+            background-color: #333;
+            border: 1px solid #444;
+            margin: 10px;
+            padding: 15px;
+            width: 300px;
         }
-        .image-section div {
-            flex: 1;
-            max-width: 300px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>El Cambio Climático</h1>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#home">Inicio</a></li>
-            <li><a href="#impact">Impacto</a></li>
-            <li><a href="#solutions">Soluciones</a></li>
-            <li><a href="#contact">Contacto</a></li>
-        </ul>
-    </nav>
-    <main>
-        <section id="home">
-            <h2>Inicio</h2>
-            <p>El cambio climático es uno de los mayores desafíos de nuestro tiempo. Afecta a todos los países y comunidades del mundo, esto a su vez ha traído varias consecuencias al planeta como se muestra a continuación.</p>
-        </section>
-        <section id="impact">
-            <h2>Impacto del Cambio Climático</h2>
-            <p>El cambio climático está provocando fenómenos meteorológicos extremos, elevación del nivel del mar y pérdida de biodiversidad.</p>
-            <div class="image-section">
-                <div>
-                    <img src="https://st.depositphotos.com/1007989/4893/i/950/depositphotos_48931483-stock-illustration-melting-glaciers.jpg" alt="Derretimiento de los polos">
-                    <p>Derretimiento de los polos<br>Debido al aumento de temperaturas, los polos han comenzado a derretirse, lo cual afecta al ecosistema y sus animales<br>(Fuente: Wikimedia Commons)</p>
-                </div>
-                <div>
-                    <a href="https://www.google.com/imgres?q=animado%20inundaciones&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fgreenpencil%2Fgreenpencil2108%2Fgreenpencil210800026%2F173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.jpg&imgrefurl=https%3A%2F%2Fes.123rf.com%2Fphoto_173953487_casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%25C3%25B3n.html&docid=Zja2MBrOtSd-7M&tbnid=hqWZdWr82f-t0M&vet=12ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA..i&w=1300&h=1300&hcb=2&ved=2ahUKEwjG3_OP-sSGAxVU4skDHXtEKG8QM3oECCwQAA" target="_blank">
-                        <img src="https://previews.123rf.com/images/greenpencil/greenpencil2108/greenpencil210800026/173953487-casa-de-caricaturas-inundada-de-agua-inundaciones-e-inundaciones-y-naturaleza-ilustraci%C3%B3n.jpg" alt="Inundaciones">
-                    </a>
-                    <p>Inundaciones<br>A causa de los derretimientos de los polos el nivel de agua aumenta lo que provoca inundaciones en varias partes del mundo<br>(Fuente: 123RF)</p>
-                </div>
-                <div>
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkz-HUu1GEVPcakXXmln15KmCjpTQ821msJZDssPQ_w&s" alt="Sequías">
-                    <p>Sequías<br>Por causa del cambio climático, la temperatura terrestre ha aumentado, lo que ocasiona sequías que afecta tanto a personas como animales y vida silvestre.</p>
-                </div>
-            </div>
-        </section>
-        <section id="solutions">
-            <h2>Soluciones</h2>
-            <p>Existen diversas soluciones a este problema, y consisten en ayudar a cuidar el planeta y buscar una vida sustentable.</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Cambio Climático - Todos los derechos reservados - Autor: Daniel Eliezer Pérez Martínez - Grupo 210 COBAEV 42</p>
-    </footer>
-</body>
-</html>
+        .game-info img {
