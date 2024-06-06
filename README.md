@@ -89,7 +89,7 @@
     <main>
         <section id="home">
             <h2>Inicio</h2>
-            <p>El cambio climático es uno de los mayores desafíos de nuestro tiempo. Afecta a todos los países y comunidades del mundo.</p>
+            <p>El cambio climático es uno de los mayores desafíos de nuestro tiempo. Afecta a todos los países y comunidades del mundo,esto asu vez a traído varias consecuencias al planeta como se muestra a continuación</p>
         </section>
         <section id="impact">
             <h2>Impacto del Cambio Climático</h2>
@@ -107,7 +107,7 @@
                 </div>
                 <div>
                     <img src="https://www.google.com/imgres?q=animado%20dibujo%20sequia&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1400255268%2Fes%2Fvector%2Fcartoon-color-cambio-clim%25C3%25A1tico-paisaje-concepto-de-escena-vector.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DqZw6pZi2GLKOa6jKB1qZtecUdKFV496DrXgZ4zYSyys%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Filustraciones%2Fsequia&docid=RrsYGEBZ9tjpIM&tbnid=EUpCGtpKEDCYKM&vet=12ahUKEwiojfX52cWGAxUfOkQIHXitAKIQM3oECH4QAA..i&w=612&h=372&hcb=2&ved=2ahUKEwiojfX52cWGAxUfOkQIHXitAKIQM3oECH4QAA" alt="Sequías">
-                    <p>Sequías<br>Por causa del cambio climático, la temperatura terrestre ha aumentado, lo que ocasiona sequías.</p>
+                    <p>Sequías<br>Por causa del cambio climático, la temperatura terrestre ha aumentado, lo que ocasiona sequías que afecta tanto a personas como animales y vida silvestre.</p>
                 </div>
             </div>
         </section>
