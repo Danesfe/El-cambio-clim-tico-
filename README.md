@@ -106,7 +106,7 @@
                     <p>Inundaciones<br>A causa de los derretimientos de los polos el nivel de agua aumenta lo que provoca inundaciones en varias partes del mundo<br>(Fuente: 123RF)</p>
                 </div>
                 <div>
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvectores%2Fsequia&psig=AOvVaw0AlZoxn2mShczOEStX6E0H&ust=1717697875553000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCHjfCJxYYDFQAAAAAdAAAAABAE" alt="Sequías">
+                    <img src="https://www.google.com/imgres?q=animado%20dibujo%20sequia&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1400255268%2Fes%2Fvector%2Fcartoon-color-cambio-clim%25C3%25A1tico-paisaje-concepto-de-escena-vector.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DqZw6pZi2GLKOa6jKB1qZtecUdKFV496DrXgZ4zYSyys%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Filustraciones%2Fsequia&docid=RrsYGEBZ9tjpIM&tbnid=EUpCGtpKEDCYKM&vet=12ahUKEwiojfX52cWGAxUfOkQIHXitAKIQM3oECH4QAA..i&w=612&h=372&hcb=2&ved=2ahUKEwiojfX52cWGAxUfOkQIHXitAKIQM3oECH4QAA" alt="Sequías">
                     <p>Sequías<br>Por causa del cambio climático, la temperatura terrestre ha aumentado, lo que ocasiona sequías.</p>
                 </div>
             </div>
